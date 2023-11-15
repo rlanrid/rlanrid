@@ -1,9 +1,7 @@
 # Hi there 👋
 안녕하세요
 
-![header](https://capsule-render.vercel.app/api?
-type=rounded&color=timeGradient&text=Welcome%20to%20Rlan's%20GitHub%20👋
-&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
 ## 😁포트폴리오 사이트 만들기 : VITE
 vite를 이용하여 포트폴리오 사이트를 만들었습니다.[vite-port](https://github.com/rlanrid/vite-project2023)
