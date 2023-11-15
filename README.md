@@ -1,6 +1,10 @@
 # Hi there 👋
 안녕하세요
 
+![header](https://capsule-render.vercel.app/api?
+type=rounded&color=timeGradient&text=Welcome%20to%20Rlan's%20GitHub%20👋
+&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
+
 ## 😁포트폴리오 사이트 만들기 : VITE
 vite를 이용하여 포트폴리오 사이트를 만들었습니다.[vite-port](https://github.com/rlanrid/vite-project2023)
    
@@ -30,9 +34,9 @@ Tools
    
 </div>
 
-## Contact me
+## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
-    <a href="mailto:rladnrider77@gmail.com">
+    <a href="mailto:kwonbe99@gmail.com">
         <img src="https://img.shields.io/badge/
         Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
@@ -44,7 +48,7 @@ Tools
         <img src="https://img.shields.io/badge/
         Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
-</div>
+
 
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
