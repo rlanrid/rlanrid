@@ -1,5 +1,6 @@
 # Hi there 👋
 안녕하세요
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 ## 😁포트폴리오 사이트 만들기 : VITE
 vite를 이용하여 포트폴리오 사이트를 만들었습니다.[vite-port](https://github.com/rlanrid/vite-project2023)
@@ -87,7 +88,6 @@ Tools
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frlanrid&count_bg=%23A8ACA6&title_bg=%23555555&icon=latex.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 <br>
 <br>
 <br>
