@@ -1,8 +1,6 @@
 # Hi there 👋
 안녕하세요
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
-
 ## 😁포트폴리오 사이트 만들기 : VITE
 vite를 이용하여 포트폴리오 사이트를 만들었습니다.[vite-port](https://github.com/rlanrid/vite-project2023)
    
