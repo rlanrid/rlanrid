@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=300&section=header&text=Welcome%20to%20Rlan's%20github&animation=blink)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=300&section=header&text=Welcome%20to%20Rlan's%20github&animation=blinking)
 
 # Hi there 👋
 안녕하세요
