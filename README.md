@@ -22,6 +22,28 @@ Language
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"></a>
   <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white"></a>
   <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white"></a>
+  <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=PHP&logoColor=white"></a>
+</div>
+
+Tools
+<div>
+   
+</div>
+
+## Contact me
+<div style="display:flex; flex-direction:row;">
+    <a href="mailto:kwonbe99@gmail.com">
+        <img src="https://img.shields.io/badge/
+        Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+    <a href="https://open.kakao.com/o/sGFzzbsf">
+        <img src="https://img.shields.io/badge/
+        KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
+    </a>
+    <a href="https://www.instagram.com/kwonbi_">
+        <img src="https://img.shields.io/badge/
+        Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+    </a>
 </div>
 
 <br>
@@ -31,7 +53,6 @@ Language
 <br>
 <br>
 <div>
-  <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=PHP&logoColor=white"></a>
   <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000?logo=Markdown&logoColor=white"></a>
   <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white"></a>
   <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white"></a>
