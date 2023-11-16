@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=300&section=header&text=Welcome%20to%20Rlan's%20github&animation=blinking)
+ ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=300&section=header&text=Welcome%20to%20Rlan's%20github&animation=blinking)
 
 # Hi there 👋
 안녕하세요
@@ -34,17 +34,9 @@ Tools
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
-    <a href="mailto:kwonbe99@gmail.com">
+    <a href="mailto:rladnrider77@gmail.com">
         <img src="https://img.shields.io/badge/
         Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-    <a href="https://open.kakao.com/o/sGFzzbsf">
-        <img src="https://img.shields.io/badge/
-        KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
-    </a>
-    <a href="https://www.instagram.com/kwonbi_">
-        <img src="https://img.shields.io/badge/
-        Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
 </div>
 
