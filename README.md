@@ -84,7 +84,7 @@ Tools
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
         <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white">
         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
-</div><br>
+   </div>
 </div>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frlanrid&count_bg=%23A8ACA6&title_bg=%23555555&icon=latex.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
