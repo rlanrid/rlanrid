@@ -1,6 +1,6 @@
  ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=300&section=header&text=Welcome%20to%20Rlan's%20github&animation=blinking&fontSize=64)
 
-# Hi there 👋
+# 👋 Hi there
 <h3>안녕하세요. 신입 프론트엔드 개발자 김우주입니다.</h3>
 <a href="mailto:rladnrider77@gmail.com">
  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
@@ -9,7 +9,7 @@
 <br/>
 <br/>
 
-## Project   
+## 📜 Project   
 ### React
 😁**React를 이용하여 포트폴리오 사이트 만들기**
 - React를 이용하여 포트폴리오 사이트를 만들었습니다. [바로가기](https://github.com/rlanrid/react-portfolio)   
@@ -59,7 +59,7 @@
 <br/>
 <br/>
 
-## 🛠Skill
+## 🛠 Skill
 ***FrontEnd***
 <div>
     <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white"></a>
