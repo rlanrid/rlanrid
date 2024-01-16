@@ -8,46 +8,46 @@
 😁**React를 이용하여 포트폴리오 사이트 만들기**
 - React를 이용하여 포트폴리오 사이트를 만들었습니다. [바로가기](https://github.com/rlanrid/react-portfolio)   
 
-😎React를 이용하여 나만의 유튜브 사이트 만들기
+😎**React를 이용하여 나만의 유튜브 사이트 만들기**
 - Youtube API를 이용해 나만의 유튜브 사이트를 만들었습니다. [바로가기](https://github.com/rlanrid/youtube-project2023)   
 
-🐌React를 이용하여 간단한 웹 사이트 만들기
+🐌**React를 이용하여 간단한 웹 사이트 만들기**
 - React를 이용하여 간단한 디자인의 웹 사이트를 만ㄷ르었습니다. [바로가기](https://github.com/rlanrid/react-project2023)   
 
-🐶React를 이용하여 반려동물 사이트 만들기
+🐶**React를 이용하여 반려동물 사이트 만들기**
 - OPEN API와 React, Node.js를 이용해 반려동물 사이트를 만들었습니다.(미완성) [바로가기](https://github.com/rlanrid/project-petpar) 
 
 ##
 
 ### Vue
-🎬Vue를 이용하여 나만의 영화 사이트 만들기
+🎬**Vue를 이용하여 나만의 영화 사이트 만들기**
 - TMDB API를 이용해 나만의 영화 사이트를 만들었습니다. [바로가기](https://github.com/rlanrid/movie-project2023)   
 
-💥Vue를 이용하여 간단한 웹 사이트 만들기
+💥**Vue를 이용하여 간단한 웹 사이트 만들기**
 - Vue를 이용하여 간단한 디자인의 웹 사이트를 만들었습니다. [바로가기](https://github.com/rlanrid/react-project2023) 
 
 ##
 
 ### Vite
-⚡Vite를 이용하여 포트폴리오 사이트 만들기
+⚡**Vite를 이용하여 포트폴리오 사이트 만들기**
 - Vite를 이용하여 포트폴리오를 만들었습니다. 설명은 React 포트폴리오에 작성했습니다. [바로가기](https://github.com/rlanrid/vite-portfolio)   
 
-⚡Vite를 이용하여 간단한 웹 사이트 만들기
+⚡**Vite를 이용하여 간단한 웹 사이트 만들기**
 - Vite를 이용하여 간단한 디자인의 웹 사이트를 만들었습니다. [바로가기](https://github.com/rlanrid/vite-project2023) 
 
 ##
 
 ### Next
-💬Next를 이용하여 Thread 사이트 만들기
+💬**Next를 이용하여 Thread 사이트 만들기**
 - Next를 이용해 Thread 사이트를 만들었습니다. [바로가기](https://github.com/rlanrid/thread-portfolio)   
 
-🚩Next를 이용하여 간단한 웹 사이트 만들기
+🚩**Next를 이용하여 간단한 웹 사이트 만들기**
 - Next를 이용하여 간단한 디자인의 웹 사이트를 만들었습니다. [바로가기](https://github.com/rlanrid/next-project2023) 
 
 ##
 
 ### PHP
-📱PHP를 사용하여 휴대폰 비교 사이트 만들기
+📱**PHP를 사용하여 휴대폰 비교 사이트 만들기**
 - PHP를 이용해 휴대폰 비교 사이트를 만들었습니다. [바로가기](https://github.com/rlanrid/TrendDevice)   
 
 
