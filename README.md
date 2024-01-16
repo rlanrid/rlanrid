@@ -4,9 +4,12 @@
 <h3>안녕하세요. 신입 프론트엔드 개발자 김우주입니다.</h3>
 <a href="mailto:rladnrider77@gmail.com">
  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
-</a>   
+</a> 
 
-## Project
+<br/>
+<br/>
+
+## Project   
 ### React
 😁**React를 이용하여 포트폴리오 사이트 만들기**
 - React를 이용하여 포트폴리오 사이트를 만들었습니다. [바로가기](https://github.com/rlanrid/react-portfolio)   
@@ -40,7 +43,7 @@
 
 ##
 
-### Next
+### Next   
 💬**Next를 이용하여 Thread 사이트 만들기**
 - Next를 이용해 Thread 사이트를 만들었습니다. [바로가기](https://github.com/rlanrid/thread-portfolio)   
 
@@ -53,7 +56,8 @@
 📱**PHP를 사용하여 휴대폰 비교 사이트 만들기**
 - PHP를 이용해 휴대폰 비교 사이트를 만들었습니다. [바로가기](https://github.com/rlanrid/TrendDevice)   
 
-
+<br/>
+<br/>
 
 ## Skill
 ***FrontEnd***
