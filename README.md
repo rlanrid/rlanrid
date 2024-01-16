@@ -1,7 +1,10 @@
  ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=300&section=header&text=Welcome%20to%20Rlan's%20github&animation=blinking&fontSize=64)
 
 # Hi there 👋
-안녕하세요
+<h3>안녕하세요. 신입 프론트엔드 개발자 김우주입니다.</h3>
+<a href="mailto:rladnrider77@gmail.com">
+ <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+</a>   
 
 ## Project
 ### React
@@ -127,12 +130,7 @@
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white"></a>
     <a href="#"><img alt="Clerk" src="https://img.shields.io/badge/Clerk-6C47FF?logo=Clerk&logoColor=white"></a>
-</div>
-
-## Contact
-<a href="mailto:rladnrider77@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
-</a>   
+</div>   
 <br/>
 <br/>
 <br/>
