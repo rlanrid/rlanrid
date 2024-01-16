@@ -3,20 +3,8 @@
 # Hi there 👋
 안녕하세요
 
-## 😁포트폴리오 사이트 만들기 : VITE
-vite를 이용하여 포트폴리오 사이트를 만들었습니다.[vite-port](https://github.com/rlanrid/vite-project2023)
-   
-## 🤣포트폴리오 사이트 만들기 : VUE
-vue 이용하여 포트폴리오 사이트를 만들었습니다.[vue-port](https://github.com/rlanrid/vue-project2023)
-   
-## 😄포트폴리오 사이트 만들기 : REACT
-react 이용하여 포트폴리오 사이트를 만들었습니다.[react-port](https://github.com/rlanrid/react-project2023)
-   
-## 😉포트폴리오 사이트 만들기 : NEXT
-next.js를 이용하여 포트폴리오 사이트를 만들었습니다.[next-port](https://github.com/rlanrid/next-project2023)
+## Project
 
-## 😍나만의 유튜브 사이트 만들기 : REACT.JS
-리액트를 이용하여 나만의 유튜브 사이트를 만들었습니다.[react-youtube](https://github.com/rlanrid/react-youtube)
 
 ## Skills
 Language
