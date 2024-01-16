@@ -33,12 +33,7 @@ Tools
 </div>
 
 ## 📞 Contact 📞   
-<div style="display:flex; flex-direction:row;">
-    <a href="mailto:rladnrider77@gmail.com">
-        <img src="https://img.shields.io/badge/
-        Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-</div>
+
 
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
