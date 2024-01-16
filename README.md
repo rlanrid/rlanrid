@@ -130,12 +130,9 @@
 </div>
 
 ## Contact
-<div>
-    <a href="mailto:rladnrider77@gmail.com">
-        <img src="https://img.shields.io/badge/
-        Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-</div>
+<a href="mailto:rladnrider77@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+</a>
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frlanrid&count_bg=%23A8ACA6&title_bg=%23555555&icon=latex.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
