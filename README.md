@@ -47,7 +47,7 @@
 ##
 
 ### PHP
-PHP를 사용하여 휴대폰 비교 사이트 만들기
+📱PHP를 사용하여 휴대폰 비교 사이트 만들기
 - PHP를 이용해 휴대폰 비교 사이트를 만들었습니다. [바로가기](https://github.com/rlanrid/TrendDevice)   
 
 
