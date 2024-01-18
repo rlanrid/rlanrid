@@ -47,7 +47,7 @@
 💬**Next를 이용하여 Thread 사이트 만들기**
 - Next를 이용해 Thread 사이트를 만들었습니다. [바로가기](https://github.com/rlanrid/thread-portfolio)   
 
-💬**Next를 이용하여 AI-Prompt 사이트 만들기**
+🖨**Next를 이용하여 AI-Prompt 사이트 만들기**
 - Next를 이용해 AI-Prompt 사이트를 만들었습니다. [바로가기](https://github.com/rlanrid/promptopia-portfolio)   
 
 🚩**Next를 이용하여 간단한 웹 사이트 만들기**
